@@ -1,0 +1,32 @@
+.link{
+    color: rgb(184, 173, 173);
+    text-decoration: none;
+}
+.link:hover{
+    color: white;
+}
+.Logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 55px;
+   
+}
+
+.me-auto{
+    margin-left: 90%;
+}
+@media only screen and (max-width: 850px) {
+    .me-auto{
+        margin-left:80%;
+    }
+  }
+  @media only screen and (max-width: 580px) {
+    .me-auto{
+        margin-left:70%;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    .me-auto{
+        margin-left:60%;
+    }
+  }

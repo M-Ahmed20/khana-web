@@ -1,0 +1,24 @@
+.bigcard{
+    height: 300px;
+    
+}
+.like{
+    height: 50px;
+    width :50px;
+    border-radius: 55px;
+    margin-left: 95%;
+ 
+}
+.dislike{
+    height: 40px;
+    width :40px;
+    border-radius: 55px;
+    margin-left: 95%;
+ 
+}
+.crousal{
+    Height: 50%;
+    width:100%;
+}
+
+

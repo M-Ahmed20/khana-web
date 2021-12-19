@@ -1,0 +1,10 @@
+table, th, td, tr{
+    border: 2px solid rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    
+
+}
+table{
+    width: 100%;
+}
